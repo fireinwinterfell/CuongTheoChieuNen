@@ -1,9 +1,7 @@
 # CuongTheoChieuNen
-
-CuongTheoChieuNen Downloads
+This repository hosts CuongTheoChieuNen builds
 
 Download link
-
 https://github.com/fireinwinterfell/CuongTheoChieuNen/releases
 
-This repository hosts CuongTheoChieuNen builds
+
